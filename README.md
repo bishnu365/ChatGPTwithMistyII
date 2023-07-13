@@ -1,9 +1,10 @@
+# Misty-II Integration with GPT Model
 ![image](https://github.com/bishnu365/ChatGPTwithMistyII/assets/22868052/d2dce6ad-6e88-4787-b09e-3ffd074810ac)
 
-# **Overview**
+## **Overview**
 This repository showcases the integration of Misty II, a cutting-edge robot developed by Misty Robotics, with the powerful OpenAI GPT (Generative Pre-trained Transformer) model. By combining the advanced robotics capabilities of Misty II with the natural language processing capabilities of the GPT model, we have unlocked a new level of intelligent interactions and human-robot collaborations.
 
-# **Features**
+## **Features**
 **Natural Language Understanding:**
 Misty II can comprehend and interpret human language with high accuracy and context awareness, thanks to the integration of the GPT model.
 
@@ -15,10 +16,10 @@ Misty II can comprehend and interpret human language with high accuracy and cont
 
 **Endless Possibilities:** The integration of Misty II with the GPT model opens up a wide range of applications, from virtual assistants and educational tools to healthcare companions and customer service representatives.
 
-# **Contribution**
+## **Contribution**
 Contributions to this project are welcome and encouraged. If you have any ideas, bug fixes, or improvements, feel free to submit a pull request. Let's collaborate to enhance the capabilities of Misty II and the GPT model integration.
 
-# **Acknowledgments**
+## **Acknowledgments**
 We would like to express our gratitude to the teams at Misty Robotics and OpenAI for their contributions and support in making this integration possible.
 
 You can connect with me at bishnu.agrawal@microsoft.com in case you have any queries related to Misty II.
