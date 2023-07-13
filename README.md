@@ -18,7 +18,12 @@ Misty II can comprehend and interpret human language with high accuracy and cont
 # **Contribution**
 Contributions to this project are welcome and encouraged. If you have any ideas, bug fixes, or improvements, feel free to submit a pull request. Let's collaborate to enhance the capabilities of Misty II and the GPT model integration.
 
+# **Acknowledgments**
+We would like to express our gratitude to the teams at Misty Robotics and OpenAI for their contributions and support in making this integration possible.
+
 You can connect with me at bishnu.agrawal@microsoft.com in case you have any queries related to Misty II.
+
+Let's embark on this exciting journey of combining robotics and natural language processing, revolutionizing the way humans and robots interact. Together, we can shape the future of intelligent robotics and drive innovation in the field!
 
 
 
