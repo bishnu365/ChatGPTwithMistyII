@@ -1,4 +1,4 @@
-# Misty-II Integration with GPT Model
+# Misty-II Integration with OpenAI GPT Model
 ![image](https://github.com/bishnu365/ChatGPTwithMistyII/assets/22868052/d2dce6ad-6e88-4787-b09e-3ffd074810ac)
 
 ## **Overview**
